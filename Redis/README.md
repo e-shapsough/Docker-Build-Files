@@ -1,2 +1,3 @@
 Base Image -> Alpin 3.19.1
+
 Redis Version -> 7.2.4
