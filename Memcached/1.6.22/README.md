@@ -1,0 +1,2 @@
+- Base Image -> Alpin 3.19.1
+- Memcached Version -> 1.6.22
