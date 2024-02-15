@@ -1,1 +1,1 @@
-memcached -vvv -m 256 -p 11250 -u nobody -l 0.0.0.0 -c 4096 -r
+memcached -vvv -m 256 -p 11211 -u nobody -l 0.0.0.0 -c 4096 -r
