@@ -1,2 +1,2 @@
-Base Image: Alpine:3.19.1
-Redis Version: 7.2.4
+- Base Image: Alpine:3.19.1
+- Redis Version: 7.2.4
